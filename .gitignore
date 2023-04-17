@@ -1,0 +1,10 @@
+.vscode
+*.o
+*.d
+*.map
+*.sct
+*.lnp
+*.axf
+*.htm
+*.hex
+*.dep
